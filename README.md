@@ -1,2 +1,2 @@
-# design-patterns-javascript
-Curso Design Patterns com JavaScript 
+# javascript-mvc
+Curso JavaScript MVC
